@@ -1,0 +1,5 @@
+{
+  "name": "Sovereign Timestamping Protocol Visualizer",
+  "description": "A web application that provides a visual dashboard for the Lawful Disruption Glyph, a protocol for protecting the vulnerable by anchoring strategies on Arweave, attesting outcomes on Ethereum, and ingesting evidence through a secure pipeline.",
+  "requestFramePermissions": []
+}
